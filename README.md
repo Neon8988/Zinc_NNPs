@@ -3,7 +3,7 @@ Modeling the potential energy surface of Fe(II) complexes. The respository is ba
 ## Installation
 To setup a conda environment with the required dependencies, please follow the [OCP](https://github.com/Open-Catalyst-Project/ocp/blob/main/INSTALL.md) installation instructions. They should work identically in this repository. 
 ## dataset
-Download the dataset in this [link](10.5281/zenodo.10520945)
+Download the dataset in this [link]((https://zenodo.org/records/10520945))
 ## Train and evaulate 
 `train.py` is available to train our model. To reproduce the results, the hyperparameters in the script need to be tuned.
 ## License

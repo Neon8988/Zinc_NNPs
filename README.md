@@ -7,5 +7,6 @@ Download the dataset in this [link](https://doi.org/10.5281/zenodo.10520945)
 ## Train and evaluate 
 `train.py` is available to train our model. To reproduce the results, the hyperparameters in the script need to be tuned.
 Run the 'check_result.ipynb' notebook to evaluate the performance of the model.
+Please download the pre-trained models in this [link](https://doi.org/10.5281/zenodo.10520945)
 ## License
 This project is released under the MIT License.

@@ -3,7 +3,7 @@ Modeling the potential energy surface of Zinc complexes. The repository is based
 ## Installation
 To set up a conda environment with the required dependencies, please follow the [OCP](https://github.com/Open-Catalyst-Project/ocp/blob/main/INSTALL.md) installation instructions. They should work identically in this repository. 
 ## dataset
-Download the dataset in this [link]([https://doi.org/10.5281/zenodo.10520945]
+Download the dataset in this [link](https://doi.org/10.5281/zenodo.10520945)
 ## Train and evaluate 
 `train.py` is available to train our model. To reproduce the results, the hyperparameters in the script need to be tuned.
 Run the 'check_result.ipynb' notebook to evaluate the performance of the model.
